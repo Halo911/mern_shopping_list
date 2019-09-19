@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://halo:halo123@test1-ipx0h.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "sl_myJwtSecret"
+}
